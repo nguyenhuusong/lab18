@@ -1,0 +1,27 @@
+.carousel-item {
+  height: 70vh;
+}
+.bg-img1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    url(img/pexels-albert-white-361104.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
+.bg-img2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    url(img/pexels-eberhard-grossgasteiger-1287145.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 90%;
+  z-index: -1;
+}
+.bg-img3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    url(img/pexels-gantas-vaičiulėnas-4091975.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
